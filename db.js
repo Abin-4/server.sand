@@ -1,5 +1,5 @@
 const { default: mongoose } = require("mongoose");
- mongoose.connect("mongodb+srv://nivedzedsoft:dFx4kjwc7ws3pOUR@cluster0.isshhdz.mongodb.net/send?retryWrites=true&w=majority&appName=Cluster0")
+ mongoose.connect("mongodb+srv://abinoxido:Kulz68wmKaWOhoKD@cluster0.iqbexez.mongodb.net/Sand?retryWrites=true&w=majority&appName=Cluster0")
 .then(()=>{
     console.log("data base connected");
     
