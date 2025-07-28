@@ -6,7 +6,7 @@ const cors = require("cors")
 const router = require('./router.js')
 
 app.use(cors({
-  origin: 'https://mmsfront-end.vercel.app', // allow frontend origin
+  origin: 'https://front-sand-alpha.vercel.app/', // allow frontend origin
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true
 }));
