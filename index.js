@@ -8,8 +8,8 @@ const app = express();
 
 // CORS Configuration (Strict for Production)
 const allowedOrigins = [
-  'https://front-sand-alpha.vercel.app',
-  'https://front-sand-alpha.vercel.app/' // Optional: With trailing slash
+  'https://alpha-sand-three.vercel.app/',
+  'https://alpha-sand-three.vercel.app//' // Optional: With trailing slash
 ];
 
 const corsOptions = {
